@@ -1432,7 +1432,9 @@ lions with the lady.
 
 THE EDITOR. Then get out of the way and hold your noise.
 (Androcles steps aside with cheerful docility). Now then! Are you
-all ready there? A trumpet is heard from the arena.
+all ready there?
+
+A trumpet is heard from the arena.
 
 FERROVIUS (starting convulsively) Heaven give me strength!
 
@@ -1725,7 +1727,7 @@ the passage in despair, followed by his co-religionists, and by
 the menagerie keeper, who goes to the gladiators. The gladiators
 draw their swords nervously.
 
-FERROVIUs. Lost! lost forever! I have betrayed my Master. Cut off
+FERROVIUS. Lost! lost forever! I have betrayed my Master. Cut off
 this right hand: it has offended. Ye have swords, my brethren:
 strike.
 
